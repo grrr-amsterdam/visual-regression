@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const puppeteer = require('puppeteer');
 const { execSync } = require('child_process');
 const { promisify } = require('util');
