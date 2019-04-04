@@ -53,4 +53,4 @@ module.exports = async (startServer, localUrl, productionUrl) => {
   return diffRun();
 };
 */
-console.log('het werkt')
+process.stdout.write('het werkt')
